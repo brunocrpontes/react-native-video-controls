@@ -13,10 +13,10 @@
   "scripts": {
     "test": "echo \"No test specified\" && exit 1"
   },
-  "author": "Nubix (https://github.com/itsnubix)",
+  "author": "Bruno Pontes (https://github.com/brunocrpontes)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:itsnubix/react-native-video-controls.git"
+    "url": "git@github.com/brunocrpontes/react-native-video-controls.git"
   },
   "dependencies": {
     "lodash": "^4.16.4"
